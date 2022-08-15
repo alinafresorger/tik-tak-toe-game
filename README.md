@@ -18,5 +18,5 @@ Simple Tik-Tak-Toe game
 ## License Information:
 MIT License
 
-<img src="tik-tak-toe-game1.png" width="400"> <img src="tik-tak-toe-game2.png" width="400">
+<img src="tik-tak-toe-game1.png" width="400"> <img src="tik-tak-toe-game2.png" width="404">
 
